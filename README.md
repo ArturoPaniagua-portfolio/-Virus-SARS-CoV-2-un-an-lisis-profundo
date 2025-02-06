@@ -1,4 +1,4 @@
-# -Virus-SARS-CoV-2-un-análisis-profundo
+# Virus SARS-CoV-2 un análisis profundo
 
 A finales de 2019 la ciudad de Wuhan, en la provincia de Hubei (una ciudad de China con más de 11 millones de habitantes), se convirtió en el centro de una epidemia de neumonía de causa desconocida con implicaciones globales.
 
