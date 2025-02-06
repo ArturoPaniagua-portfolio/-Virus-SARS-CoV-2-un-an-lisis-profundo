@@ -4,6 +4,8 @@ A finales de 2019 la ciudad de Wuhan, en la provincia de Hubei (una ciudad de Ch
 
 Se sabe que las pruebas serológicas son una herramienta muy útil para confirmar la infección por un patógeno en la población y, combinadas con datos epidemiológicos y clínicos, permiten estimar la gravedad y la transmisibilidad del patógeno e identificar los grupos de población que han sido infectados, así como aquellos que siguen siendo susceptibles.  Por ello, cada vez más requerimos datos moleculares como las secuencias de ácidos nucleicos de los virus para conocer su origen y potencialidad epidemiológica.
 
+![image](https://github.com/user-attachments/assets/03fb5207-2c9e-4ccc-831a-2e860812335d)
+
 # Descripción del Proyecto
 El estudio se centra en la comparación de secuencias genómicas de coronavirus en nueve especies, incluyendo la variante original del SARS-CoV-2 de Wuhan. Se obtuvieron datos del NCBI para analizar sus similitudes y diferencias mediante técnicas de alineamiento y visualización de datos.
 
